@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Model me this Football/1.0.0": {
+        "runtime": {
+          "Model me this Football.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Model me this Football/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

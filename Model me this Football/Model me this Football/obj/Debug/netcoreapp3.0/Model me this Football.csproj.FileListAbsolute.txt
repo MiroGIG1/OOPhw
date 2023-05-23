@@ -1,0 +1,11 @@
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\bin\Debug\netcoreapp3.0\Model me this Football.exe
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\bin\Debug\netcoreapp3.0\Model me this Football.deps.json
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\bin\Debug\netcoreapp3.0\Model me this Football.runtimeconfig.json
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\bin\Debug\netcoreapp3.0\Model me this Football.runtimeconfig.dev.json
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\bin\Debug\netcoreapp3.0\Model me this Football.dll
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\bin\Debug\netcoreapp3.0\Model me this Football.pdb
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\obj\Debug\netcoreapp3.0\Model me this Football.csprojAssemblyReference.cache
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\obj\Debug\netcoreapp3.0\Model me this Football.AssemblyInfoInputs.cache
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\obj\Debug\netcoreapp3.0\Model me this Football.AssemblyInfo.cs
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\obj\Debug\netcoreapp3.0\Model me this Football.dll
+C:\Users\bogat\Desktop\OOP homework\Model me this Football\Model me this Football\obj\Debug\netcoreapp3.0\Model me this Football.pdb
